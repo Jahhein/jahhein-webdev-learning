@@ -1,16 +1,10 @@
 body {
-  margin-top: 15px;
-}
-
-h1 {
+  background: black;
+  margin: 40px;
   font-family: Inconsolata;
-  font-style: bold;
-  font-size: 40px;
-  background-color: grey;
-  text-align: center;
 }
 
-#knuth-list {
-	display:table;
-  margin: 0 auto;
+.caption {
+  margin-top: 10px;
+  font: 15px;
 }
